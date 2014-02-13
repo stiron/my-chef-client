@@ -5,11 +5,11 @@ It is just a wrapper cookbook for the chef-client cookbook.
 
 #Requirements
 
-* chef-client cookbook
+* `chef-client` cookbook
 
 #Usage
 
-* Simply use in a run-list :)
+* Simply use it in a run-list :)
 
 #Author
 
