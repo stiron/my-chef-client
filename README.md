@@ -1,4 +1,16 @@
-my-chef-client
-==============
+my-chef-client Cookbook
+=======================
 
-Wrapper cookbook for the chef-client
+It is just a wrapper cookbook for the chef-client cookbook.
+
+#Requirements
+
+* chef-client cookbook
+
+#Usage
+
+* Simply use in a run-list :)
+
+#Author
+
+* Tamas MOLNAR - stiron@gmail.com
