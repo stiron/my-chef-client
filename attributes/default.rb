@@ -1,4 +1,4 @@
-default['chef_clien1t']['cron'] = {
+default['chef_client']['cron'] = {
   'minute' => '*/20',
   'hour' => '*',
   'path' => nil,
